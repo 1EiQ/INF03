@@ -1,5 +1,6 @@
 ## 1. _Podstawy 
-#### I.  <?php ?> - otwieranie i zamykanie skryptu php (tagi <script language="php"> są przestarzałe)
+#### I.  <?php ?> - otwieranie i zamykanie skryptu php 
+    <
 #### II.  $ - deklaracja zmiennej 
 #### III. echo, print - wyswietlanie tekstu i znaczników HTML w przegladarce
 #### IV.  Typy danych:
