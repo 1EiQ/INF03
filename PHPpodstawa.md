@@ -35,6 +35,7 @@
 
 #### II. instrukcje warunkowe
 - a. if / elseif / else - wykonanie kodu w zależności od spełnienia warunku
+
 - b.
   
             switch($zmienna) - przyjmuje zmieną którą chcemy sprawdzić 
