@@ -79,7 +79,7 @@
                 }
                 ?>
 
-  - c. do...while - pętla wykonująca się przynajmniej raz, a potem sprawdza warunek
+- c. do...while - pętla wykonująca się przynajmniej raz, a potem sprawdza warunek
     
                 <?php
                 $x = 10;
