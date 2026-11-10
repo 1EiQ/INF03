@@ -9,7 +9,9 @@
 -  bool - prawda/falsz <br>
 
 #### V.   Komentowanie 
-//, #, /* ... */
+- //,
+- #,
+- /* ... */
 #### VI.  Laczenie napisów(konkatenacja) - wykonujemy kropką
 
 
