@@ -38,8 +38,9 @@
 
 - b.
     - switch($zmienna) - przyjmuje zmieną którą chcemy sprawdzić 
-            case wartosc - sprawdza czy zmienna jest równa danej wartości> Jeśli tak, wykonuje kod znajdujacy sie po nim.
-            default - działa wtedy jak zaden case nie pasował(tak jak else)
+    - case wartosc - sprawdza czy zmienna jest równa danej wartości> Jeśli tak, wykonuje kod znajdujacy sie po nim.
+    - default - działa wtedy jak zaden case nie pasował(tak jak else)
+      
                 <?php
                 $dzien = 2;
 
