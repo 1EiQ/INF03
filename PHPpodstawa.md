@@ -3,12 +3,13 @@
 #### II.  $ - deklaracja zmiennej 
 #### III. echo, print - wyswietlanie tekstu i znaczników HTML w przegladarce
 #### IV.  Typy danych:
-a. string - znakowy <br>
-b. int - calkowite <br>
-c. float/double - zmiennoprzecinkowe  <br>
-d. bool - prawda/falsz <br>
+- a. string - znakowy <br>
+- b. int - calkowite <br>
+- c. float/double - zmiennoprzecinkowe  <br>
+- d. bool - prawda/falsz <br>
 
-#### V.   Komentowanie //, #, /* ... */
+#### V.   Komentowanie 
+//, #, /* ... */
 #### VI.  Laczenie napisów(konkatenacja) - wykonujemy kropką
 
 
