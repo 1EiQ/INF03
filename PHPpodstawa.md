@@ -20,14 +20,14 @@
 #### I. operatory porównania i logiczne
 - a. operatory porównania:
   
-        ==      - sprawdza czy się równa (wartość)
+ - ==      - sprawdza czy się równa (wartość)
         ===     - sprawdza czy są identyczne (wartość ORAZ typ danych)
         !=, <>  - sprawdza czy jest różne
         !==     - sprawdza czy są nieidentyczne (różna wartość LUB różny typ)
         <, >    - mniejszy, większy
         <=, >=  - mniejszy lub równy, większy lub równy
 
-  - b. operatory logiczne:
+- b. operatory logiczne:
     
         && (and) - i (oba warunki muszą być prawdziwe)
         || (or)  - lub (przynajmniej jeden warunek musi być prawdziwy)
